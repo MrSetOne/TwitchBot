@@ -2,9 +2,7 @@
 
 Este es un servidor de Node.js escrito en TypeScript que utiliza la biblioteca `tmi.js` para crear un bot de Twitch. El bot puede unirse a canales y enviar mensajes.
 
-## Project Structure
-
-Estructura de ficheros:
+## Estructura de ficheros
 
 ```
 twitch-bot
@@ -23,7 +21,7 @@ twitch-bot
 - `package.json`: Este es el archivo de configuración de npm, incluye las librerias utilizadas y los scripts.
 - `README.md`: Documentación del proyecto.
 
-## Getting Started
+## Empezando
 
 1. Clona el repositorio.
 2. Instala las dependencias ejecutando `npm install`.
